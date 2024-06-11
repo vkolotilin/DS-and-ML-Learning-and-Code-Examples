@@ -1,0 +1,2 @@
+Link to full course - https://jovian.com/learn/machine-learning-with-python-zero-to-gbms
+Link to lesson - https://jovian.com/learn/machine-learning-with-python-zero-to-gbms/lesson/linear-regression-with-scikit-learn
