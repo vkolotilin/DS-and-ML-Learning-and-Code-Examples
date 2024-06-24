@@ -1,21 +1,26 @@
 Machine Learning
 
 --- Machine Learning Models
-
 ------ XGB Regression
 --------- 1) L1, L2 Regularization in XGBoost Regression - https://albertum.medium.com/l1-l2-regularization-in-xgboost-regression-7b2db08a59e0
 --------- 2) How to Evaluate Gradient Boosting Models with XGBoost in Python - https://machinelearningmastery.com/evaluate-gradient-boosting-models-xgboost-python/
-
-
-
-
---- Data Visualization
------- 1) Data Visualization Guide - https://jovian.ai/aakashns/dataviz-cheatsheet
------- 2) Interactive Visualization with Plotly - https://jovian.ai/aakashns/interactive-visualization-plotly
------- 3) Data Visualization using Python, Matplotlib and Seaborn - https://jovian.ai/aakashns/python-matplotlib-data-visualization
-
-
-
 --- Other Topics
 ------ 1) K-Fold Cross Validation in Machine Learning – Python Example - https://vitalflux.com/k-fold-cross-validation-python-example/
 ------ 2) How to Use StandardScaler and MinMaxScaler Transforms in Python - https://machinelearningmastery.com/standardscaler-and-minmaxscaler-transforms-in-python/
+
+
+
+
+Data Visualization
+--- 1) Data Visualization Guide - https://jovian.ai/aakashns/dataviz-cheatsheet
+--- 2) Interactive Visualization with Plotly - https://jovian.ai/aakashns/interactive-visualization-plotly
+--- 3) Data Visualization using Python, Matplotlib and Seaborn - https://jovian.ai/aakashns/python-matplotlib-data-visualization
+
+
+
+
+
+Data collection
+
+--- Beatiful Soup
+------ 1) Lesson 3 - Web Scraping and REST APIs - https://jovian.com/learn/introduction-to-programming-with-python/lesson/web-scraping-and-rest-apis
