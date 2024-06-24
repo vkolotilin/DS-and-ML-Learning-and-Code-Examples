@@ -1,11 +1,10 @@
 Python DSA
+1) Learn DS & Algorithms - https://www.programiz.com/dsa
 
---- 1) Learn DS & Algorithms - https://www.programiz.com/dsa
-
-
+Local Development
+1) Lesson 4 - Local Development with Conda & Git - https://jovian.com/learn/introduction-to-programming-with-python/lesson/local-development-with-conda-git
 
 Machine Learning
-
 --- Machine Learning Models
 ------ XGB Regression
 --------- 1) L1, L2 Regularization in XGBoost Regression - https://albertum.medium.com/l1-l2-regularization-in-xgboost-regression-7b2db08a59e0
@@ -27,7 +26,6 @@ Data Visualization
 
 
 Data collection
-
 --- Beatiful Soup
 ------ 1) Lesson 3 - Web Scraping and REST APIs - https://jovian.com/learn/introduction-to-programming-with-python/lesson/web-scraping-and-rest-apis
 ------ 2) Ыскфззн - https://docs.scrapy.org/en/latest/
